@@ -1,0 +1,11 @@
+/Users/jordansmith/Desktop/New languages/C#/Rock_Paper_Scissors_02/obj/Debug/netcoreapp2.0/Rock_Paper_Scissors_02.csprojResolveAssemblyReference.cache
+/Users/jordansmith/Desktop/New languages/C#/Rock_Paper_Scissors_02/obj/Debug/netcoreapp2.0/Rock_Paper_Scissors_02.csproj.CoreCompileInputs.cache
+/Users/jordansmith/Desktop/New languages/C#/Rock_Paper_Scissors_02/obj/Debug/netcoreapp2.0/Rock_Paper_Scissors_02.AssemblyInfoInputs.cache
+/Users/jordansmith/Desktop/New languages/C#/Rock_Paper_Scissors_02/obj/Debug/netcoreapp2.0/Rock_Paper_Scissors_02.AssemblyInfo.cs
+/Users/jordansmith/Desktop/New languages/C#/Rock_Paper_Scissors_02/bin/Debug/netcoreapp2.0/Rock_Paper_Scissors_02.deps.json
+/Users/jordansmith/Desktop/New languages/C#/Rock_Paper_Scissors_02/bin/Debug/netcoreapp2.0/Rock_Paper_Scissors_02.runtimeconfig.json
+/Users/jordansmith/Desktop/New languages/C#/Rock_Paper_Scissors_02/bin/Debug/netcoreapp2.0/Rock_Paper_Scissors_02.runtimeconfig.dev.json
+/Users/jordansmith/Desktop/New languages/C#/Rock_Paper_Scissors_02/bin/Debug/netcoreapp2.0/Rock_Paper_Scissors_02.dll
+/Users/jordansmith/Desktop/New languages/C#/Rock_Paper_Scissors_02/bin/Debug/netcoreapp2.0/Rock_Paper_Scissors_02.pdb
+/Users/jordansmith/Desktop/New languages/C#/Rock_Paper_Scissors_02/obj/Debug/netcoreapp2.0/Rock_Paper_Scissors_02.dll
+/Users/jordansmith/Desktop/New languages/C#/Rock_Paper_Scissors_02/obj/Debug/netcoreapp2.0/Rock_Paper_Scissors_02.pdb
